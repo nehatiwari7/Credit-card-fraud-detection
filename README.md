@@ -30,7 +30,4 @@ This project uses a Logistic Regression model to detect fraudulent transactions 
 input_data = pd.DataFrame([[...]])
 pred = model.predict(input_data)
 ---
-## ✅ Conclusion
-This project shows how machine learning can help detect credit card fraud.  
-Using Logistic Regression on an imbalanced dataset, the model predicts whether a transaction is normal or fraudulent.  
-It gives good results when tested with new data inputs.
+
