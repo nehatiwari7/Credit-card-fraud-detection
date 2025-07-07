@@ -20,14 +20,10 @@ This project uses a Logistic Regression model to detect fraudulent transactions 
 - *Algorithm*: Logistic Regression
 - *Evaluation Metrics*: Confusion Matrix, Precision, Recall, AUC-PR (due to class imbalance)
 ---
-## 🚀 How to Run
-1. Open the .ipynb file in Google Colab 
-2. Run all cells to load the data, preprocess, train, and test the model
-3. You can change the input data manually to test predictions
----
-## 🧪 Sample Input & Prediction
-```python
-input_data = pd.DataFrame([[...]])
-pred = model.predict(input_data)
----
+## ✅ Conclusion
+
+This project shows how machine learning can help detect credit card fraud.  
+Using Logistic Regression on an imbalanced dataset, the model predicts whether a transaction is normal or fraudulent.  
+It gives good results when tested with new data inputs.
+
 
