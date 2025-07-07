@@ -12,7 +12,7 @@ This project uses a Logistic Regression model to detect fraudulent transactions 
 
 ---
 ## 🛠️ Technologies Used
-- Python 3
+- Python 
 - Google Colab
 - Libraries: pandas, scikit-learn, numpy, matplotlib, seaborn
 ---
