@@ -21,7 +21,7 @@ This project uses a Logistic Regression model to detect fraudulent transactions 
 - *Evaluation Metrics*: Confusion Matrix, Precision, Recall, AUC-PR (due to class imbalance)
 ---
 ## 🚀 How to Run
-1. Open the .ipynb file in Google Colab or Jupyter Notebook
+1. Open the .ipynb file in Google Colab 
 2. Run all cells to load the data, preprocess, train, and test the model
 3. You can change the input data manually to test predictions
 ---
